@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vyacheslav Gorbov</h1>
-<h3 align="center">I am a Cloud Developer currently working @digital-dynamite</h3>
+<h3 align="center">I am a Cloud Developer currently working <a href="https://github.com/digital-dynamite">@digital-dynamite</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyacheslav31&label=Profile%20views&color=0e75b6&style=flat" alt="vyacheslav31" /> </p>
 
