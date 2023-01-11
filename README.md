@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vyacheslav Gorbov</h1>
 <h3 align="center">I am a Cloud Developer currently working <a href="https://github.com/digital-dynamite">@digital-dynamite</a></h3>
-<a href="https://app.daily.dev/vyacheslav31"><img class="display:block; margin: auto;" src="https://api.daily.dev/devcards/7c6b694fe85f48f6a6e1e736d1761065.png?r=vmm" width="400" alt="Vyacheslav Gorbov's Dev Card"/></a>
+<a href="https://app.daily.dev/vyacheslav31"><img align="right" src="https://api.daily.dev/devcards/7c6b694fe85f48f6a6e1e736d1761065.png?r=vmm" width="256" alt="Vyacheslav Gorbov's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyacheslav31&label=Profile%20views&color=0e75b6&style=flat" alt="vyacheslav31" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyacheslav31" alt="vyacheslav31" /></a> </p>
