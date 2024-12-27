@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vyacheslav Gorbov</h1>
-<h3 align="center">I am a Cloud Developer currently working <a href="https://github.com/digital-dynamite">@digital-dynamite</a></h3>
+<h3 align="center">I am a Cloud Developer currently working <a href="https://github.com/digital-dynamite">@mime-rona</a></h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vyacheslav31" alt="vyacheslav31" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
